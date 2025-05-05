@@ -54,11 +54,19 @@
             "video_url": "https://cdn.shopify.com/videos/c/o/v/3e4ff55a34cb43a6bb65f8b1ac0ce3b8.mp4",
             "poster_url": "https://cdn.shopify.com/s/files/1/0616/1435/8662/files/poster-3.jpg?v=1746465272"
           }
+        },
+        "video_slide_7e4qiH": {
+          "type": "video_slide",
+          "settings": {
+            "video_url": "https://cdn.shopify.com/videos/c/o/v/f0f4eafddded44e38b9eab82dadae08a.mp4",
+            "poster_url": "https://cdn.shopify.com/s/files/1/0616/1435/8662/files/poster-2.jpg?v=1746465272"
+          }
         }
       },
       "block_order": [
         "video_slide_TgWX93",
-        "video_slide_6YxQiD"
+        "video_slide_6YxQiD",
+        "video_slide_7e4qiH"
       ],
       "name": "Video Review Slider",
       "settings": {}
