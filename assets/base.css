@@ -101,6 +101,10 @@ body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
 }
 
 
+.section-title {
+  font-size: clamp(3.2rem, calc(1.89rem + 1.89vw), 6.4rem);
+}
+
 
 @media screen and (min-width: 750px) {
   .page-width {
