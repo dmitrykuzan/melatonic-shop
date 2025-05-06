@@ -90,6 +90,11 @@
       "type": "ticker-text",
       "name": "Ticker Text",
       "settings": {}
+    },
+    "banner_melatonic_DVir6m": {
+      "type": "banner-melatonic",
+      "name": "Banner Melatonic",
+      "settings": {}
     }
   },
   "order": [
@@ -98,6 +103,7 @@
     "featured_collection",
     "video_slider_J36J48",
     "review_slider_KLGUqH",
-    "ticker_text_hBRgde"
+    "ticker_text_hBRgde",
+    "banner_melatonic_DVir6m"
   ]
 }
