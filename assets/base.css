@@ -129,6 +129,7 @@
 
 /* ticker text */
 .ticker-text__wrapper {
+  margin-top: 5rem;
   width: 100%;
   overflow: hidden;
   white-space: nowrap;
