@@ -1,0 +1,85 @@
+{{ 'banner-melatonic.css' | asset_url | stylesheet_tag }}
+
+<section class="banner-melatonic page-width">
+  <div class="banner-melatonic__wrapper">
+    <div class="banner-melatonic__image">
+      <img
+        class="banner-melatonic__image-desktop"
+        src="{{ 'banner-melatonic-person.jpg' | asset_url }}"
+        width="1420"
+        height="720"
+      >
+      <img
+        class="banner-melatonic__image-mobile"
+        src="{{ 'banner-melatonic-person-mobile.jpg' | asset_url }}"
+        width="550"
+        height="480"
+      >
+    </div>
+
+    <div class="banner-melatonic__content">
+      <div class="swiper banner-melatonic__swiper">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide">
+            <div class="banner-melatonic__slide">
+              <p>
+                “Discover the healthiest way to naturally enhance your hair’s growth and strength” - <span>VOGUE</span>
+              </p>
+            </div>
+          </div>
+
+          <div class="swiper-slide">
+            <div class="banner-melatonic__slide">
+              <p>
+                “Discover the healthiest way to naturally enhance your hair’s growth and strength” - <span>VOGUE</span>
+              </p>
+            </div>
+          </div>
+
+          <div class="swiper-slide">
+            <div class="banner-melatonic__slide">
+              <p>
+                “Melatonic is basically filler in a bottle giving skin that smooth, youthful bounce.” <span>VOGUE</span>
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="banner-melatonic__pagination"></div>
+      </div>
+
+      <a class="banner-with-title__link" href="{{ all_products.melatonic.url }}"> Shop now</a>
+    </div>
+  </div>
+</section>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const bannerSlider = new Swiper('.banner-melatonic__swiper', {
+      spaceBetween: 10,
+      slidesPerView: 1,
+
+      autoplay: {
+        delay: 2500,
+        disableOnInteraction: false,
+      },
+
+      pagination: {
+        el: '.banner-melatonic__pagination',
+        clickable: true,
+      },
+    });
+  });
+</script>
+
+{% schema %}
+{
+  "name": "Banner Melatonic",
+  "settings": [],
+  "presets": [
+    {
+      "name": "Banner Melatonic"
+    }
+  ]
+}
+{% endschema %}

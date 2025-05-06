@@ -79,6 +79,30 @@
             </div>
           </div>
         </div>
+
+        <div class="swiper-slide">
+          <div class="before-after-slider__slide">
+            <div class="before-after-slider__images">
+              <div class="before-after-slider__slide-part">
+                <span class="before-after-slider__slide-text">Before</span>
+                <div class="before-after-slider__slide-image">
+                  <img src="{{ 'before-slide-1.jpg' | asset_url }}" width="320" height="470" alt="Before">
+                </div>
+              </div>
+              <div class="before-after-slider__slide-part">
+                <span class="before-after-slider__slide-text">After 6 Weeks</span>
+                <div class="before-after-slider__slide-image">
+                  <img src="{{ 'after-slide-1.jpg' | asset_url }}" width="320" height="470" alt="Before">
+                </div>
+              </div>
+            </div>
+            <div class="before-after-slider__review">
+              “Six months in, Melatonic Growth has filled in my thinning spots and made my hair stronger.” -
+              <br>
+              <span>Kelly</span>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="swiper-pagination"></div>
     </div>
@@ -93,6 +117,7 @@
 
       pagination: {
         el: '.swiper-pagination',
+        clickable: true,
       },
 
       breakpoints: {
@@ -104,7 +129,6 @@
         992: {
           slidesPerView: 3,
           centeredSlides: true,
-          initialSlide: 2,
           loop: true,
         },
       },

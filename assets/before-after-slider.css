@@ -4,7 +4,7 @@
   margin-right: auto;
   max-width: 185rem;
   
-  .swiper-slide-next {
+  .swiper-slide-next {  
     transition: transform 0.3s linear;
     transform: scale(0.9);
   }
@@ -88,6 +88,9 @@
 }
 
 .before-after-slider__slide-part {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   position: relative;
 }
 
@@ -172,8 +175,9 @@
   }
 
   .before-after-slider__slide-text {
-    font-size: 2.8rem;
-    font-weight: 500;
+    font-size: 1.8rem;
+    /* font-weight: 500; */
+    text-transform: uppercase;
   }
 
   .before-after-slider__review {

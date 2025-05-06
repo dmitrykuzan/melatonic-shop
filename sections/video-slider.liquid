@@ -32,7 +32,7 @@
 
 <script>
   document.addEventListener('DOMContentLoaded', function () {
-    const swiperBeforeAfter = new Swiper('.video-slider__swiper', {
+    const videoSlider = new Swiper('.video-slider__swiper', {
       spaceBetween: 2,
       slidesPerView: 1.2,
       centeredSlides: true,
@@ -40,7 +40,7 @@
       breakpoints: {
         575: { spaceBetween: 10, slidesPerView: 2 },
         767: { spaceBetween: 10, slidesPerView: 3 },
-        992: { slidesPerView: 3, centeredSlides: true },
+        992: { slidesPerView: 3, centeredSlides: true, spaceBetween: 15 },
       },
     });
 
