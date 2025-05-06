@@ -9,6 +9,16 @@
  */
 {
   "sections": {
+    "partners_WArexW": {
+      "type": "partners",
+      "name": "Ticker Partners",
+      "settings": {}
+    },
+    "before_after_slider_TQD9nr": {
+      "type": "before-after-slider",
+      "name": "Before After Slider",
+      "settings": {}
+    },
     "featured_collection": {
       "type": "featured-collection",
       "disabled": true,
@@ -70,10 +80,24 @@
       ],
       "name": "Video Review Slider",
       "settings": {}
+    },
+    "review_slider_KLGUqH": {
+      "type": "review-slider",
+      "name": "Review Slider",
+      "settings": {}
+    },
+    "ticker_text_hBRgde": {
+      "type": "ticker-text",
+      "name": "Ticker Text",
+      "settings": {}
     }
   },
   "order": [
+    "partners_WArexW",
+    "before_after_slider_TQD9nr",
     "featured_collection",
-    "video_slider_J36J48"
+    "video_slider_J36J48",
+    "review_slider_KLGUqH",
+    "ticker_text_hBRgde"
   ]
 }
