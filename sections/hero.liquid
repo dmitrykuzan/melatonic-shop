@@ -1,0 +1,29 @@
+<section class="hero page-width">
+  <div class="hero__wrapper">
+    <div class="hero__content">
+      <h1 class="hero__title"><span>#1</span> Trusted Melatonin Hair Growth Solution</h1>
+
+      {% if product %}
+        <a class="product-link" href="{{ settings.product.url }}">Boost hair growth</a>
+      {% endif %}
+    </div>
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "Hero",
+  "settings": [
+    {
+      "type": "product",
+      "id": "product",
+      "label": "Select product"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Hero"
+    }
+  ]
+}
+{% endschema %}
