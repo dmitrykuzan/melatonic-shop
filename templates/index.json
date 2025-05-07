@@ -95,9 +95,26 @@
       "type": "banner-melatonic",
       "name": "Banner Melatonic",
       "settings": {}
+    },
+    "hero_GmkTFD": {
+      "type": "hero",
+      "blocks": {
+        "product_yAjcV6": {
+          "type": "product",
+          "settings": {
+            "product": ""
+          }
+        }
+      },
+      "block_order": [
+        "product_yAjcV6"
+      ],
+      "name": "Hero",
+      "settings": {}
     }
   },
   "order": [
+    "hero_GmkTFD",
     "partners_WArexW",
     "before_after_slider_TQD9nr",
     "featured_collection",
