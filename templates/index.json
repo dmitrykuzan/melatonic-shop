@@ -15,7 +15,7 @@
         "product_yAjcV6": {
           "type": "product",
           "settings": {
-            "product": ""
+            "product": "melatonic"
           }
         }
       },
@@ -28,6 +28,11 @@
     "partners_WArexW": {
       "type": "partners",
       "name": "Ticker Partners",
+      "settings": {}
+    },
+    "melatonic_promo_GpgJfw": {
+      "type": "melatonic-promo",
+      "name": "Melatonic Promo",
       "settings": {}
     },
     "before_after_slider_TQD9nr": {
@@ -110,11 +115,6 @@
     "banner_melatonic_DVir6m": {
       "type": "banner-melatonic",
       "name": "Banner Melatonic",
-      "settings": {}
-    },
-    "melatonic_promo_GpgJfw": {
-      "type": "melatonic-promo",
-      "name": "Melatonic Promo",
       "settings": {}
     }
   },
