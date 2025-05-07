@@ -18,59 +18,11 @@
     </div>
 
     <div class="banner-melatonic__content">
-      <div class="swiper banner-melatonic__swiper">
-        <div class="swiper-wrapper">
-          <div class="swiper-slide">
-            <div class="banner-melatonic__slide">
-              <p>
-                “Discover the healthiest way to naturally enhance your hair’s growth and strength” - <span>VOGUE</span>
-              </p>
-            </div>
-          </div>
-
-          <div class="swiper-slide">
-            <div class="banner-melatonic__slide">
-              <p>
-                “Discover the healthiest way to naturally enhance your hair’s growth and strength” - <span>VOGUE</span>
-              </p>
-            </div>
-          </div>
-
-          <div class="swiper-slide">
-            <div class="banner-melatonic__slide">
-              <p>
-                “Melatonic is basically filler in a bottle giving skin that smooth, youthful bounce.” <span>VOGUE</span>
-              </p>
-            </div>
-          </div>
-        </div>
-
-        <div class="banner-melatonic__pagination"></div>
-      </div>
-
+      {% render 'brend-review-slider' %}
       <a class="banner-with-title__link" href="{{ all_products.melatonic.url }}"> Shop now</a>
     </div>
   </div>
 </section>
-
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    const bannerSlider = new Swiper('.banner-melatonic__swiper', {
-      spaceBetween: 10,
-      slidesPerView: 1,
-
-      autoplay: {
-        delay: 2500,
-        disableOnInteraction: false,
-      },
-
-      pagination: {
-        el: '.banner-melatonic__pagination',
-        clickable: true,
-      },
-    });
-  });
-</script>
 
 {% schema %}
 {
