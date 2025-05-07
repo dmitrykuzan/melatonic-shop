@@ -9,9 +9,30 @@
  */
 {
   "sections": {
+    "hero_GmkTFD": {
+      "type": "hero",
+      "blocks": {
+        "product_yAjcV6": {
+          "type": "product",
+          "settings": {
+            "product": "melatonic"
+          }
+        }
+      },
+      "block_order": [
+        "product_yAjcV6"
+      ],
+      "name": "Hero",
+      "settings": {}
+    },
     "partners_WArexW": {
       "type": "partners",
       "name": "Ticker Partners",
+      "settings": {}
+    },
+    "melatonic_promo_GpgJfw": {
+      "type": "melatonic-promo",
+      "name": "Melatonic Promo",
       "settings": {}
     },
     "before_after_slider_TQD9nr": {
@@ -95,27 +116,12 @@
       "type": "banner-melatonic",
       "name": "Banner Melatonic",
       "settings": {}
-    },
-    "hero_GmkTFD": {
-      "type": "hero",
-      "blocks": {
-        "product_yAjcV6": {
-          "type": "product",
-          "settings": {
-            "product": ""
-          }
-        }
-      },
-      "block_order": [
-        "product_yAjcV6"
-      ],
-      "name": "Hero",
-      "settings": {}
     }
   },
   "order": [
     "hero_GmkTFD",
     "partners_WArexW",
+    "melatonic_promo_GpgJfw",
     "before_after_slider_TQD9nr",
     "featured_collection",
     "video_slider_J36J48",
