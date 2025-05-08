@@ -1,14 +1,14 @@
-{{ 'volufiline-product-slider.css' | asset_url | stylesheet_tag }}
+{{ 'melatonic-product-slider.css' | asset_url | stylesheet_tag }}
 
-<div class="volufiline-product-slider__wrapper">
-  <!-- Big slider -->
-  <div class="swiper volufiline-product-slider__big">
+<div class="melatonic-product-slider__wrapper">
+  <!-- Большой слайдер -->
+  <div class="swiper melatonic-product-slider__big">
     <div class="swiper-wrapper">
       {%- assign media_counter = 0 -%}
       {%- for media in product.media -%}
         {%- if media.media_type == 'image' -%}
           <div class="swiper-slide">
-            <div class="volufiline-product-slider__image-big">
+            <div class="melatonic-product-slider__image-big">
               {{ media | image_url: width: 800 | image_tag: loading: 'lazy', alt: media.alt | escape }}
             </div>
           </div>
@@ -16,27 +16,16 @@
         {%- endif -%}
       {%- endfor -%}
     </div>
-    <div class="volufiline-swiper-button-next">
-      <svg width="26" height="21" viewBox="0 0 26 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path d="M1.125 10.5L24.875 10.5M24.875 10.5L15.9688 1M24.875 10.5L15.9688 20" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-      </svg>
-    </div>
-    <div class="volufiline-swiper-button-prev">
-      <svg width="26" height="21" viewBox="0 0 26 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path d="M24.875 10.5L1.125 10.5M1.125 10.5L10.0312 20M1.125 10.5L10.0312 1" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-      </svg>
-    </div>
-    <div class="volufiline-product-pagination"></div>
   </div>
 
-  <!-- (thumbs) -->
-  <div thumbsSlider="" class="swiper volufiline-product-slider__thumbs">
+  <!-- Миниатюры (thumbs) -->
+  <div thumbsSlider="" class="swiper melatonic-product-slider__thumbs">
     <div class="swiper-wrapper">
       {%- assign media_counter = 0 -%}
       {%- for media in product.media -%}
         {%- if media.media_type == 'image' -%}
           <div class="swiper-slide">
-            <div class="volufiline-product-slider__image-thumbs">
+            <div class="melatonic-product-slider__image-thumbs">
               {{ media | image_url: width: 165 | image_tag: loading: 'lazy', alt: media.alt | escape }}
             </div>
           </div>
@@ -49,31 +38,34 @@
 
 <script>
   document.addEventListener('DOMContentLoaded', function () {
-    var swiper = new Swiper('.volufiline-product-slider__thumbs', {
-      spaceBetween: 12,
+    var swiper = new Swiper('.melatonic-product-slider__thumbs', {
+      spaceBetween: 8,
       slidesPerView: 5,
-      {% comment %} direction: 'vertical', {% endcomment %}
       watchSlidesProgress: true,
 
       breakpoints: {
+        1024: {
+          spaceBetween: 10,
+        },
+
         1480: {
           direction: 'vertical',
+          spaceBetween: 12,
         },
       },
     });
 
-    var swiper2 = new Swiper('.volufiline-product-slider__big', {
-      spaceBetween: 10,
-      navigation: {
-        nextEl: '.volufiline-swiper-button-next',
-        prevEl: '.volufiline-swiper-button-prev',
-      },
-      pagination: {
-        el: ".volufiline-product-pagination",
-        clickable: true,
-      },
+    var swiper2 = new Swiper('.melatonic-product-slider__big', {
+      spaceBetween: 5,
+
       thumbs: {
         swiper: swiper,
+      },
+
+      breakpoints: {
+        1024: {
+          spaceBetween: 10,
+        },
       },
     });
   });

@@ -17,6 +17,8 @@
 }
 
 .melatonic-promo__text {
+  position: relative;
+  z-index: -2;
   h2, p {
     margin: initial;
   }
@@ -36,10 +38,12 @@
 }
 
 .melatonic-promo__image-wrapper {
+ 
+
   position: absolute;
-  width: 60rem;
-  left: -4rem;
-  top: -9rem;
+  width: 56rem;
+  left: -5rem;
+  top: -7rem;
   z-index: -1;
 
   img {
@@ -84,6 +88,13 @@
     transition: background-color .3s linear;
 }
 
+@media screen and (min-width: 374px) {
+  .melatonic-promo__image-wrapper {
+    width: 60rem;
+    left: -2rem;
+    top: -8rem;
+  }
+}
 
 @media screen and (min-width: 420px) {
   .melatonic-promo__slider {
@@ -113,7 +124,7 @@
   }
 
   .melatonic-promo__content {
-    max-width: initial;
+    max-width: 94rem;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
@@ -193,6 +204,10 @@
   .melatonic-promo__image {
     margin-left: 19rem;
   }
+
+  .melatonic-promo__content {
+    max-width: 115rem;
+  }
 }
 
 @media screen and (min-width: 1480px) {
@@ -202,6 +217,10 @@
 
   .melatonic-promo {
     margin-top: 16rem;
+  }
+
+  .melatonic-promo__content {
+    max-width: 130rem;
   }
 }
 
@@ -218,6 +237,7 @@
 
   .melatonic-promo__content {
     min-height: 52rem;
+    max-width: 145rem;
   }
 
   .melatonic-promo__image-wrapper {
