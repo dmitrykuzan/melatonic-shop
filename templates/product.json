@@ -102,10 +102,90 @@
             "row_content": "<p>Volufiline is a cosmetic ingredient that helps improve skin volume and firmness. It works by encouraging fat storage in the area it's applied, giving a fuller, plumper appearance over time.<br/><br/></p>",
             "page": ""
           }
+        },
+        "collapsible_row_K4Dipm": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Where can I use it?",
+            "icon": "none",
+            "row_content": "<p>Volufiline is a cosmetic ingredient that helps improve skin volume and firmness. It works by encouraging fat storage in the area it's applied, giving a fuller, plumper appearance over time.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_kwFCkA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long does it take to see results?",
+            "icon": "none",
+            "row_content": "<p>Volufiline is a cosmetic ingredient that helps improve skin volume and firmness. It works by encouraging fat storage in the area it's applied, giving a fuller, plumper appearance over time.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_TrTQWL": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is Melatonic permanent?",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_3WfFkc": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does topical melatonin make you tired?",
+            "icon": "none",
+            "row_content": "<p>Volufiline is a cosmetic ingredient that helps improve skin volume and firmness. It works by encouraging fat storage in the area it's applied, giving a fuller, plumper appearance over time.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_x4kUiA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How often should I apply it?",
+            "icon": "none",
+            "row_content": "<p>Volufiline is a cosmetic ingredient that helps improve skin volume and firmness. It works by encouraging fat storage in the area it's applied, giving a fuller, plumper appearance over time.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_B4HjQa": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I use it with other hair care products?",
+            "icon": "none",
+            "row_content": "<p>Volufiline is a cosmetic ingredient that helps improve skin volume and firmness. It works by encouraging fat storage in the area it's applied, giving a fuller, plumper appearance over time.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_CKfhD9": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is it safe for sensitive scalps?",
+            "icon": "none",
+            "row_content": "<p>Volufiline is a cosmetic ingredient that helps improve skin volume and firmness. It works by encouraging fat storage in the area it's applied, giving a fuller, plumper appearance over time.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_RVG33R": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does it really work?",
+            "icon": "none",
+            "row_content": "<p>Volufiline is a cosmetic ingredient that helps improve skin volume and firmness. It works by encouraging fat storage in the area it's applied, giving a fuller, plumper appearance over time.<br/><br/></p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
-        "collapsible_row_iRhFrq"
+        "collapsible_row_iRhFrq",
+        "collapsible_row_K4Dipm",
+        "collapsible_row_kwFCkA",
+        "collapsible_row_TrTQWL",
+        "collapsible_row_3WfFkc",
+        "collapsible_row_x4kUiA",
+        "collapsible_row_B4HjQa",
+        "collapsible_row_CKfhD9",
+        "collapsible_row_RVG33R"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
