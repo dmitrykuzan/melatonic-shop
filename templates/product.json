@@ -288,6 +288,11 @@
       ],
       "name": "Custom Review List",
       "settings": {}
+    },
+    "melatonic_review_rating_pN4BXB": {
+      "type": "melatonic-review-rating",
+      "name": "Melatonic Rating",
+      "settings": {}
     }
   },
   "order": [
@@ -295,6 +300,7 @@
     "related-products",
     "result_slider_zGryGY",
     "collapsible_content_GLbbqt",
+    "melatonic_review_rating_pN4BXB",
     "custom_review_GfAPgy"
   ]
 }
