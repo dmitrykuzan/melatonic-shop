@@ -202,12 +202,201 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "custom_review_9tWpQk": {
+      "type": "custom-review",
+      "blocks": {
+        "list_item_RcpXPN": {
+          "type": "list_item",
+          "settings": {
+            "name_customer": "Christopher",
+            "title_review": "Volufiline • skincare booster",
+            "review_date": "3 days ago",
+            "review_rating": 5,
+            "review_text": "<p>Lightning fast delivery, great job</p>"
+          }
+        }
+      },
+      "block_order": [
+        "list_item_RcpXPN"
+      ],
+      "name": "Custom Review List",
+      "settings": {}
+    },
+    "custom_review_d7tcmf": {
+      "type": "custom-review",
+      "blocks": {
+        "list_item_xQkWXX": {
+          "type": "list_item",
+          "settings": {
+            "name_customer": "Christopher",
+            "title_review": "Volufiline • skincare booster",
+            "review_date": "3 days ago",
+            "review_rating": 5,
+            "review_text": "<p>Lightning fast delivery, great job</p>"
+          }
+        }
+      },
+      "block_order": [
+        "list_item_xQkWXX"
+      ],
+      "name": "Custom Review List",
+      "settings": {}
+    },
+    "custom_review_qE8nzJ": {
+      "type": "custom-review",
+      "blocks": {
+        "list_item_NhW3J4": {
+          "type": "list_item",
+          "settings": {
+            "name_customer": "Christopher",
+            "title_review": "Volufiline • skincare booster",
+            "review_date": "3 days ago",
+            "review_rating": 5,
+            "review_text": "<p>Lightning fast delivery, great job</p>"
+          }
+        }
+      },
+      "block_order": [
+        "list_item_NhW3J4"
+      ],
+      "name": "Custom Review List",
+      "settings": {}
+    },
+    "custom_review_t8Y6xh": {
+      "type": "custom-review",
+      "blocks": {
+        "list_item_mmUmgz": {
+          "type": "list_item",
+          "settings": {
+            "name_customer": "Christopher",
+            "title_review": "Volufiline • skincare booster",
+            "review_date": "3 days ago",
+            "review_rating": 5,
+            "review_text": "<p>Lightning fast delivery, great job</p>"
+          }
+        }
+      },
+      "block_order": [
+        "list_item_mmUmgz"
+      ],
+      "name": "Custom Review List",
+      "settings": {}
+    },
+    "custom_review_LwADTd": {
+      "type": "custom-review",
+      "blocks": {
+        "list_item_VrB9jG": {
+          "type": "list_item",
+          "settings": {
+            "name_customer": "Christopher",
+            "title_review": "Volufiline • skincare booster",
+            "review_date": "3 days ago",
+            "review_rating": 5,
+            "review_text": "<p>Lightning fast delivery, great job</p>"
+          }
+        }
+      },
+      "block_order": [
+        "list_item_VrB9jG"
+      ],
+      "name": "Custom Review List",
+      "settings": {}
+    },
+    "custom_review_YYRT3w": {
+      "type": "custom-review",
+      "blocks": {
+        "list_item_aTbc4L": {
+          "type": "list_item",
+          "settings": {
+            "name_customer": "Christopher",
+            "title_review": "Volufiline • skincare booster",
+            "review_date": "3 days ago",
+            "review_rating": 5,
+            "review_text": "<p>Lightning fast delivery, great job</p>"
+          }
+        }
+      },
+      "block_order": [
+        "list_item_aTbc4L"
+      ],
+      "name": "Custom Review List",
+      "settings": {}
+    },
+    "custom_review_QcX3GJ": {
+      "type": "custom-review",
+      "blocks": {
+        "list_item_zjnBQY": {
+          "type": "list_item",
+          "settings": {
+            "name_customer": "Christopher",
+            "title_review": "Volufiline • skincare booster",
+            "review_date": "3 days ago",
+            "review_rating": 5,
+            "review_text": "<p>Lightning fast delivery, great job</p>"
+          }
+        }
+      },
+      "block_order": [
+        "list_item_zjnBQY"
+      ],
+      "name": "Custom Review List",
+      "settings": {}
+    },
+    "custom_review_gb8Ar4": {
+      "type": "custom-review",
+      "blocks": {
+        "list_item_nY7RxN": {
+          "type": "list_item",
+          "settings": {
+            "name_customer": "Christopher",
+            "title_review": "Volufiline • skincare booster",
+            "review_date": "3 days ago",
+            "review_rating": 5,
+            "review_text": "<p>Lightning fast delivery, great job</p>"
+          }
+        }
+      },
+      "block_order": [
+        "list_item_nY7RxN"
+      ],
+      "name": "Custom Review List",
+      "settings": {}
+    },
+    "custom_review_4Y8cTk": {
+      "type": "custom-review",
+      "blocks": {
+        "list_item_TUDBkF": {
+          "type": "list_item",
+          "settings": {
+            "name_customer": "Christopher",
+            "title_review": "Volufiline • skincare booster",
+            "review_date": "3 days ago",
+            "review_rating": 5,
+            "review_text": "<p>Lightning fast delivery, great job</p>"
+          }
+        }
+      },
+      "block_order": [
+        "list_item_TUDBkF"
+      ],
+      "name": "Custom Review List",
+      "settings": {}
     }
   },
   "order": [
     "main",
     "related-products",
     "result_slider_zGryGY",
-    "collapsible_content_GLbbqt"
+    "collapsible_content_GLbbqt",
+    "custom_review_9tWpQk",
+    "custom_review_d7tcmf",
+    "custom_review_qE8nzJ",
+    "custom_review_t8Y6xh",
+    "custom_review_LwADTd",
+    "custom_review_YYRT3w",
+    "custom_review_QcX3GJ",
+    "custom_review_gb8Ar4",
+    "custom_review_4Y8cTk"
   ]
 }
