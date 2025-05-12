@@ -24,7 +24,7 @@
 @media screen and (min-width: 1480px) {
   .melatonic-product-slider__wrapper {
     flex-direction: row-reverse;
-    max-height: 74rem;
+    max-height: 65rem;
     margin-bottom: initial;
     max-width: initial;
     margin-left: initial;

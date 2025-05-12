@@ -29,7 +29,7 @@ product-info {
   .product {
     gap: 0rem !important;
     .grid__item {
-      max-width: 87rem;
+      max-width: 75rem;
     }
   }
 }

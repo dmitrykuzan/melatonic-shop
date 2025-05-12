@@ -38,12 +38,10 @@
 }
 
 .melatonic-promo__image-wrapper {
- 
-
   position: absolute;
-  width: 56rem;
-  left: -5rem;
-  top: -7rem;
+  width: 41rem;
+  left: -1rem;
+  top: -4rem;
   z-index: -1;
 
   img {
@@ -90,9 +88,9 @@
 
 @media screen and (min-width: 374px) {
   .melatonic-promo__image-wrapper {
-    width: 60rem;
-    left: -2rem;
-    top: -8rem;
+    width: 43rem;
+    left: 2rem;
+    top: -4rem;
   }
 }
 
@@ -138,7 +136,7 @@
     }
 
     p {
-      font-size: 4.8rem;
+      font-size: 4.3rem;
       text-align: end;
       line-height: 110%;
     }
@@ -153,7 +151,7 @@
   .melatonic-promo__image-wrapper {
     left: 50%;
     transform: translateX(-50%);
-    top: -10rem;
+    top: -8rem;
   }
 
   .melatonic-promo__image {
@@ -178,7 +176,7 @@
     }
 
     p {
-      font-size: 5.8rem;
+      font-size: 5.5rem;
     }
   }
 
@@ -192,13 +190,14 @@
     }
 
     p {
-      font-size: 6.4rem;
+      font-size: 6rem;
     }
   }
 
    .melatonic-promo__image-wrapper {
-    width: 68rem;
-    top: -14rem;
+    width: 52rem;
+    top: -10rem;
+    left: 50%;
   }
 
   .melatonic-promo__image {
@@ -241,8 +240,9 @@
   }
 
   .melatonic-promo__image-wrapper {
-    width: 90rem;
-    top: -17rem;
+    width: 66rem;
+    top: -12rem;
+    left: 46%;
   }
 
   .melatonic-promo__image {
