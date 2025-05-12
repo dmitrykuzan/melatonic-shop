@@ -67,6 +67,11 @@
         "padding_bottom": 12
       }
     },
+    "melatonic_benefits_eyid3w": {
+      "type": "melatonic-benefits",
+      "name": "Melatonic Benefits",
+      "settings": {}
+    },
     "related-products": {
       "type": "related-products",
       "disabled": true,
@@ -200,7 +205,7 @@
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
         "caption": "",
-        "heading": "Collapsible content",
+        "heading": "Frequently Asked Questions",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
@@ -302,11 +307,6 @@
         "list_item_wji74x"
       ],
       "name": "Custom Review List",
-      "settings": {}
-    },
-    "melatonic_benefits_eyid3w": {
-      "type": "melatonic-benefits",
-      "name": "Melatonic Benefits",
       "settings": {}
     }
   },
