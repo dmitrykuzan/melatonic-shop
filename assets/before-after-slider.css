@@ -50,7 +50,6 @@
 
 .before-after-slider__wrapper {
   padding-left: 1.5rem;
- 
 }
 
 .before-after-slider__swiper {
@@ -121,7 +120,6 @@
 }
 
 @media screen and (min-width: 992px) {
- 
   .before-after-slider {
     margin-top: 15rem;
 
@@ -146,36 +144,31 @@
   .before-after-slider__slide-image {
     border-radius: 2rem;
     
-  
     img {
       border-radius: 2rem;
     }
   }
-
-
- 
 }
 
 @media screen and (min-width: 1440px) {
-
   .before-after-slider {
     margin-top: 20rem;
   }
 
   .before-after-slider__titles {
-   display: flex;
-   flex-direction: row;
-   align-items: center;
-   justify-content: space-between;
-   margin-bottom: 5rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 5rem;
 
-   h2 {
-    font-size: 6.4rem;
-   }
+    h2 {
+      font-size: 6.4rem;
+    }
 
-   p {
-    font-size: 3rem;
-   }
+    p {
+      font-size: 3rem;
+    }
   }
 
   .before-after-slider__slide-text {
