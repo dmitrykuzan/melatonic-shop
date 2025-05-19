@@ -112,81 +112,90 @@
         "collapsible_row_iRhFrq": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "What is Melatonic?",
+            "heading": "How long does it take to see results?",
             "icon": "none",
-            "row_content": "<p>Volufiline is a cosmetic ingredient that helps improve skin volume and firmness. It works by encouraging fat storage in the area it's applied, giving a fuller, plumper appearance over time.<br/><br/></p>",
+            "row_content": "<p>Most users notice reduced shedding and early signs of regrowth (like baby hairs) within 2–4 weeks. Fuller, visibly denser hair can take 6–8 weeks with consistent use.<br/><br/></p>",
             "page": ""
           }
         },
         "collapsible_row_K4Dipm": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Where can I use it?",
+            "heading": "Is Melatonic permanent?",
             "icon": "none",
-            "row_content": "<p>Volufiline is a cosmetic ingredient that helps improve skin volume and firmness. It works by encouraging fat storage in the area it's applied, giving a fuller, plumper appearance over time.<br/><br/></p>",
+            "row_content": "<p>While Melatonic supports long-term hair health, results are maintained with ongoing use. Like most topical treatments, hair may gradually revert if usage stops.<br/><br/></p>",
             "page": ""
           }
         },
         "collapsible_row_kwFCkA": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How long does it take to see results?",
+            "heading": "Does topical melatonin make you tired?",
             "icon": "none",
-            "row_content": "<p>Volufiline is a cosmetic ingredient that helps improve skin volume and firmness. It works by encouraging fat storage in the area it's applied, giving a fuller, plumper appearance over time.<br/><br/></p>",
+            "row_content": "<p>Nope — applying melatonin to the scalp doesn’t cause drowsiness. It stays local to the skin and doesn’t affect your sleep cycle.<br/><br/></p>",
             "page": ""
           }
         },
         "collapsible_row_TrTQWL": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Is Melatonic permanent?",
+            "heading": "How often should I apply it?",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Apply Melatonic once or twice daily to clean, dry scalp — ideally in the morning and evening for best results.<br/><br/></p>",
             "page": ""
           }
         },
         "collapsible_row_3WfFkc": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Does topical melatonin make you tired?",
+            "heading": "Is it safe for sensitive scalps?",
             "icon": "none",
-            "row_content": "<p>Volufiline is a cosmetic ingredient that helps improve skin volume and firmness. It works by encouraging fat storage in the area it's applied, giving a fuller, plumper appearance over time.<br/><br/></p>",
+            "row_content": "<p>Melatonic is formulated to be gentle and non-irritating. However, if you have a history of scalp sensitivity, we recommend patch testing before full use.<br/><br/></p>",
             "page": ""
           }
         },
         "collapsible_row_x4kUiA": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How often should I apply it?",
+            "heading": "Does it really work?",
             "icon": "none",
-            "row_content": "<p>Volufiline is a cosmetic ingredient that helps improve skin volume and firmness. It works by encouraging fat storage in the area it's applied, giving a fuller, plumper appearance over time.<br/><br/></p>",
+            "row_content": "<p>Melatonic combines topical melatonin with proven plant extracts to support hair density, reduce shedding, and stimulate regrowth — backed by real customer results.<br/><br/></p>",
             "page": ""
           }
         },
         "collapsible_row_B4HjQa": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Can I use it with other hair care products?",
+            "heading": "Will it make my hair greasy?",
             "icon": "none",
-            "row_content": "<p>Volufiline is a cosmetic ingredient that helps improve skin volume and firmness. It works by encouraging fat storage in the area it's applied, giving a fuller, plumper appearance over time.<br/><br/></p>",
+            "row_content": "<p>No. Melatonic is fast-absorbing and water-based — no oils, no residue, no greasy feel.<br/><br/></p>",
             "page": ""
           }
         },
         "collapsible_row_CKfhD9": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Is it safe for sensitive scalps?",
+            "heading": "Does it work for men and women?",
             "icon": "none",
-            "row_content": "<p>Volufiline is a cosmetic ingredient that helps improve skin volume and firmness. It works by encouraging fat storage in the area it's applied, giving a fuller, plumper appearance over time.<br/><br/></p>",
+            "row_content": "<p>Yes, it’s designed to be effective and safe for all genders dealing with hair thinning or loss.<br/><br/></p>",
             "page": ""
           }
         },
         "collapsible_row_RVG33R": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Does it really work?",
+            "heading": "What areas can I apply it to?",
             "icon": "none",
-            "row_content": "<p>Volufiline is a cosmetic ingredient that helps improve skin volume and firmness. It works by encouraging fat storage in the area it's applied, giving a fuller, plumper appearance over time.<br/><br/></p>",
+            "row_content": "<p>Apply directly to thinning or shedding areas — temples, crown, part line, or hairline. It’s safe to use across the scalp.<br/><br/></p>",
+            "page": ""
+          }
+        },
+         "collapsible_row_RVG3AR": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I use it on colored or chemically treated hair?",
+            "icon": "none",
+            "row_content": "<p>Yes, it’s safe for all hair types — including color-treated, bleached, and chemically processed hair.<br/><br/></p>",
             "page": ""
           }
         }
