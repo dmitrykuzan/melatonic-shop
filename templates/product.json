@@ -189,15 +189,6 @@
             "row_content": "<p>Apply directly to thinning or shedding areas — temples, crown, part line, or hairline. It’s safe to use across the scalp.<br/><br/></p>",
             "page": ""
           }
-        },
-         "collapsible_row_RVG3AR": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Can I use it on colored or chemically treated hair?",
-            "icon": "none",
-            "row_content": "<p>Yes, it’s safe for all hair types — including color-treated, bleached, and chemically processed hair.<br/><br/></p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
@@ -235,84 +226,117 @@
     "custom_review_GfAPgy": {
       "type": "custom-review",
       "blocks": {
+        "list_item_VdcmAB": {
+          "type": "list_item",
+          "settings": {
+            "name_customer": "Ava",
+            "title_review": "Melatonic Quick Results",
+            "review_date": "",
+            "review_rating": 5,
+            "review_text": "<p>“Honestly didn’t expect much, but after 3 weeks I saw new growth around my temples. My scalp even feels healthier</p>"
+          }
+        },
         "list_item_igrTjp": {
           "type": "list_item",
           "settings": {
-            "name_customer": "Christopher",
-            "title_review": "Melatonic",
+            "name_customer": "Liam",
+            "title_review": "Fast Shipping",
             "review_date": "3 days ago",
             "review_rating": 5,
-            "review_text": "<p>Lightning fast delivery, great job</p>"
+            "review_text": "<p>Shipping was super fast and the packaging felt premium. Just started using it, but it absorbs quickly and doesn’t leave a mess.</p>"
           }
         },
         "list_item_yxc6Xm": {
           "type": "list_item",
           "settings": {
-            "name_customer": "Christopher",
-            "title_review": "Melatonic",
+            "name_customer": "Sophia",
+            "title_review": "HOLY GRAIL HAIR GROWTH SERUM!!",
             "review_date": "3 days ago",
             "review_rating": 5,
-            "review_text": "<p>Lightning fast delivery, great job</p>"
+            "review_text": "<p>I’ve tried everything for postpartum hair loss and this is the only thing that made a difference. Hairline is finally filling in.</p>"
+          }
+        },
+        "list_item_rNYp48": {
+          "type": "list_item",
+          "settings": {
+            "name_customer": "Ethan",
+            "title_review": "monthly review",
+            "review_date": "",
+            "review_rating": 5,
+            "review_text": "<p>been using it for about a month now. Definitely noticing less hair in the shower drain and a bit more volume on top.</p>"
           }
         },
         "list_item_JWE7N4": {
           "type": "list_item",
           "settings": {
-            "name_customer": "Christopher",
-            "title_review": "Melatonic",
+            "name_customer": "Isabella",
+            "title_review": "Melatonic 60ml",
             "review_date": "3 days ago",
             "review_rating": 5,
-            "review_text": "<p>Lightning fast delivery, great job</p>"
+            "review_text": "<p>I love how light it feels. My roots look fuller and my stylist even asked what I’ve been using.</p>"
           }
         },
         "list_item_taiAN9": {
           "type": "list_item",
           "settings": {
-            "name_customer": "Christopher",
+            "name_customer": "Noah",
             "title_review": "Melatonic",
             "review_date": "3 days ago",
             "review_rating": 5,
-            "review_text": "<p>Lightning fast delivery, great job</p>"
+            "review_text": "<p>I’ve got super sensitive skin and was worried, but no irritation at all. Easy to apply and smells really mild.</p>"
           }
         },
         "list_item_iFbLb4": {
           "type": "list_item",
           "settings": {
-            "name_customer": "Christopher",
-            "title_review": "Melatonic",
-            "review_date": "3 days ago",
+            "name_customer": "Maya",
+            "title_review": "Quick Delivery",
+            "review_date": "4 days ago",
             "review_rating": 5,
-            "review_text": "<p>Lightning fast delivery, great job</p>"
+            "review_text": "<p>Delivery was quick and the results have been surprising. I have baby hairs coming back after years of thinning.</p>"
           }
         },
         "list_item_H7JdMP": {
           "type": "list_item",
           "settings": {
-            "name_customer": "Christopher",
-            "title_review": "Melatonic",
-            "review_date": "3 days ago",
+            "name_customer": "Owen",
+            "title_review": "More Volume",
+            "review_date": "4 days ago",
             "review_rating": 5,
-            "review_text": "<p>Lightning fast delivery, great job</p>"
+            "review_text": "<p>Noticed a change in texture after 2 weeks. Hair looks less flat and feels stronger overall.</p>"
+          }
+        },
+        "list_item_jBGeCF": {
+          "type": "list_item",
+          "settings": {
+            "name_customer": "Layla",
+            "title_review": "Better than Minoxidil",
+            "review_date": "4 days ago",
+            "review_rating": 5,
+            "review_text": "<p>This actually works. My scalp doesn’t itch like it did with minoxidil, and my part line looks less wide.</p>"
           }
         },
         "list_item_wji74x": {
           "type": "list_item",
           "settings": {
-            "name_customer": "Christopher",
-            "title_review": "Melatonic",
-            "review_date": "3 days ago",
+            "name_customer": "Zoe",
+            "title_review": "Melatonic 60ml",
+            "review_date": "4 days ago",
             "review_rating": 5,
-            "review_text": "<p>Lightning fast delivery, great job</p>"
+            "review_text": "<p>Didn’t expect much, but my shedding has cut down a lot. No greasy residue, which I appreciate.</p>"
           }
         }
       },
       "block_order": [
+        "list_item_VdcmAB",
         "list_item_igrTjp",
         "list_item_yxc6Xm",
+        "list_item_rNYp48",
         "list_item_JWE7N4",
         "list_item_taiAN9",
         "list_item_iFbLb4",
         "list_item_H7JdMP",
+        "list_item_jBGeCF",
         "list_item_wji74x"
       ],
       "name": "Custom Review List",
