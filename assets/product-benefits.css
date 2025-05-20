@@ -312,6 +312,10 @@
     margin-right: auto;
   }
 
+  .product-benefits__link {
+      margin-bottom: 4rem;
+  }
+
   .product-benefits__item-1 {
     top: 7rem;
     left: 15rem;
