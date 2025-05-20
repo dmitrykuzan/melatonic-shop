@@ -230,5 +230,6 @@
 @media screen and (min-width: 1280px) {
   .melatonic-review-rating__image {
     max-width: 17rem;
+    min-height: 32rem;
   }
 }
