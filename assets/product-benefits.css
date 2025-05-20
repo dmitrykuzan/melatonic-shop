@@ -75,7 +75,7 @@
 
 .product-benefits__link {
   max-width: 21rem;
-  
+  margin-top: auto;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -91,7 +91,6 @@
   min-height: 5rem;
   background: #000;
   width: 100%;
-  max-width: 41rem;
   cursor: pointer;
   text-decoration: initial;
   margin-top: 3rem;
