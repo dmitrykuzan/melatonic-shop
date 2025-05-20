@@ -3,7 +3,7 @@
   margin-left: auto;
   margin-right: auto;
   max-width: 185rem;
-  
+
   /* .swiper-slide-next {  
     transition: transform 0.3s linear;
     transform: scale(0.9);
@@ -24,7 +24,6 @@
   }
 }
 
-
 .before-after-slider__titles {
   display: flex;
   flex-direction: column;
@@ -43,7 +42,7 @@
     line-height: 130%;
   }
 
-  >* {
+  > * {
     margin: 0;
   }
 }
@@ -66,7 +65,7 @@
   flex-direction: column;
   align-items: center;
   gap: 1rem;
-  background-color: #F7F7F7;
+  background-color: #f7f7f7;
   padding-top: 3rem;
   padding-left: 2rem;
   padding-right: 2rem;
@@ -96,7 +95,7 @@
 .before-after-slider__slide-image {
   border-radius: 1rem;
   overflow: hidden;
-   min-height: 28rem;
+  min-height: 28rem;
 
   img {
     border-radius: 1rem;
@@ -145,7 +144,7 @@
   .before-after-slider__slide-image {
     border-radius: 2rem;
     min-height: 32rem;
-    
+
     img {
       border-radius: 2rem;
     }
@@ -177,6 +176,10 @@
     font-size: 1.8rem;
     /* font-weight: 500; */
     text-transform: uppercase;
+  }
+
+  .before-after-slider__slide-image {
+    min-height: 34rem;
   }
 
   .before-after-slider__review {
