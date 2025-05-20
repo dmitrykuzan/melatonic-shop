@@ -5,6 +5,7 @@
 }
 
 .product-benefits__wrapper {
+  display: flex;
   position: relative;
   min-height: 76rem;
 }
