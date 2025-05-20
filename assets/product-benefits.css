@@ -27,7 +27,6 @@
   height: 15rem;
 }
 
-
 .product-benefits__title {
   font-size: 1.8rem;
   color: #000;
@@ -72,6 +71,30 @@
     height: 100%;
     object-fit: cover;
   }
+}
+
+.product-benefits__link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #000;
+  border-radius: 1rem;
+  color: #fff;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 133%;
+  outline: none;
+  border: initial;
+  min-height: 5rem;
+  background: #000;
+  width: 100%;
+  max-width: 41rem;
+  cursor: pointer;
+  text-decoration: initial;
+  margin-top: 3rem;
+  transition: background-color 0.3s linear, color 0.3s linear,
+    border 0.3s linear;
 }
 
 .product-benefits__item-1 {
@@ -141,7 +164,6 @@
 }
 
 @media screen and (min-width: 410px) {
-
   .product-benefits__item-1 {
     top: 3rem;
   }
@@ -156,23 +178,20 @@
 }
 
 @media screen and (min-width: 450px) {
- .product-benefits__image {
-  left: 14rem;
- }
+  .product-benefits__image {
+    left: 14rem;
+  }
 
- .product-benefits__item-2 {
-  top: 4rem;
- }
+  .product-benefits__item-2 {
+    top: 4rem;
+  }
 
- .product-benefits__item-5 {
-  right: 7rem;
- }
+  .product-benefits__item-5 {
+    right: 7rem;
+  }
 }
 
 @media screen and (min-width: 575px) {
-
-
-
   .product-benefits__image {
     left: 50%;
     transform: translateX(-50%) rotate(60deg);
@@ -210,9 +229,8 @@
 }
 
 @media screen and (min-width: 992px) {
-
   .product-benefits {
-    margin-top: 10rem; 
+    margin-top: 10rem;
     margin-bottom: 10rem;
   }
 
@@ -315,9 +333,8 @@
 }
 
 @media screen and (min-width: 1280px) {
- .product-benefits {
-    margin-top: 15rem; 
+  .product-benefits {
+    margin-top: 15rem;
     margin-bottom: 10rem;
   }
-
 }
