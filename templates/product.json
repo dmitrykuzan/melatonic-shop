@@ -228,36 +228,40 @@
       "blocks": {
         "list_item_VdcmAB": {
           "type": "list_item",
+          "name": "Ava Customer Review",
           "settings": {
             "name_customer": "Ava",
             "title_review": "Melatonic Quick Results",
             "review_date": "",
             "review_rating": 5,
-            "review_text": "<p>\"I’ve been dealing with hair thinning for a while, and after trying several products, I finally found one that actually made a difference. Within just a few weeks, I noticed less shedding in the shower and my hair started to feel fuller and healthier. It’s not a miracle overnight fix, but with consistent use, the results are noticeable and encouraging. If you’re struggling with thinning hair, this is definitely worth a try.\"</p>"
+            "review_text": "<p>I’ve been dealing with hair thinning for a while, and after trying several products, I finally found one that actually made a difference. Within just a few weeks, I noticed less shedding in the shower and my hair started to feel fuller and healthier. It’s not a miracle overnight fix, but with consistent use, the results are noticeable and encouraging. If you’re struggling with thinning hair, this is definitely worth a try.</p>"
           }
         },
         "list_item_igrTjp": {
           "type": "list_item",
+          "name": "Liam Customer Review",
           "settings": {
             "name_customer": "Liam",
-            "title_review": "Fast Shipping",
+            "title_review": "Visible Results",
             "review_date": "3 days ago",
             "review_rating": 5,
-            "review_text": "<p>Shipping was super fast and the packaging felt premium. Just started using it, but it absorbs quickly and doesn’t leave a mess.</p>"
+            "review_text": "<p>I had given up on my hair growing in the center due to excessive thinness. Since using this product for the last two months, I was able to see a HUGE difference when I went for my loc retwist today.. my hair has truly thickened at the center!!! This product is the TRUTH!</p>"
           }
         },
         "list_item_yxc6Xm": {
           "type": "list_item",
+          "name": "Sophia Customer Review",
           "settings": {
             "name_customer": "Sophia",
-            "title_review": "HOLY GRAIL HAIR GROWTH SERUM!!",
+            "title_review": "Hair Density Approved",
             "review_date": "3 days ago",
             "review_rating": 5,
-            "review_text": "<p>I’ve tried everything for postpartum hair loss and this is the only thing that made a difference. Hairline is finally filling in.</p>"
+            "review_text": "<p>I have suffered from periodic hair loss primarily due to thryroid and perimenopause and have tried a multitude of products over the last 10 years. I have been using this product for about three months in conjuction with Nutrafol hair vitamins and have noticed a difference in the density and quality of my hair. I would recommend!</p>"
           }
         },
         "list_item_rNYp48": {
           "type": "list_item",
+          "name": "Ethan Customer Review",
           "settings": {
             "name_customer": "Ethan",
             "title_review": "monthly review",
