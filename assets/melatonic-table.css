@@ -19,6 +19,9 @@
 }
 
 .melatonic-table__body {
+  display: flex;
+  justify-content: center;
+  
   table {
     background-color: #f7f7f7;
     border-radius: 1rem;
