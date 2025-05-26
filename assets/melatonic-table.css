@@ -9,6 +9,10 @@
 .melatonic-table__body {
   table {
     tr {
+      td {
+        font-size: 1.4rem;
+      }
+      
       td:first-child {
         font-weight: 600;
         color: #000;
