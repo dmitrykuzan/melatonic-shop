@@ -66,9 +66,12 @@
     table {
       width: 100%;
       tr {
-        td {
+        td:first-child {
           font-weight: 800;
           font-size: 1.8rem;
+        }
+        td {
+          font-size: 1.6rem;
         }
       }
     }
