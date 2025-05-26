@@ -20,4 +20,9 @@
   p {
     font-size: 1.4rem;
   }
+
+  span {
+    display: flex;
+    max-width: 1.5rem;
+  }
 }
