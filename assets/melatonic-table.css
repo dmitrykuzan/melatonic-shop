@@ -24,10 +24,10 @@
 }
 
 @media screen and (min-width: 1200px) {
- .melatonic-table__title {
-  font-size: 3.2rem;
-  text-align: center;
-}
+  .melatonic-table__title {
+    font-size: 3.2rem;
+    text-align: center;
+  }
 }
 
 .melatonic-table__body {
@@ -62,7 +62,7 @@
   .melatonic-table__body {
     max-width: 111rem;
     margin: 0 auto;
-    
+
     table {
       width: 100%;
       tr {
@@ -91,6 +91,12 @@
 
 .melatonic-table__subtitle {
   font-size: 1.6rem;
+}
+
+@media screen and (min-width: 1200px) {
+ .melatonic-table__subtitle {
+  font-size: 1.8rem;
+}
 }
 
 .melatonic-table__description {
