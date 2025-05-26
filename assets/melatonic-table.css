@@ -35,8 +35,9 @@
   justify-content: center;
 
   table {
-    background-color: black;
+    background-color: #f7f7f7;
     border-radius: 1rem;
+    border-color: black;
 
     tr {
       td {
