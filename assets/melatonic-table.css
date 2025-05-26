@@ -31,6 +31,16 @@
 }
 
 
+th, td {
+    padding: 1em !important;
+    border-bottom: 2px solid black !important; /* Thicker row lines */
+  }
+
+  tr:last-child td {
+    border-bottom: none !important; /* No line under last row */
+  }
+
+
 
 
 .melatonic-table__body {
