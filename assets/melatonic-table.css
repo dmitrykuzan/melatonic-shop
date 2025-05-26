@@ -30,41 +30,19 @@
   }
 }
 
-
-  th, td {
-    padding: 1em !important;
-    border-bottom: 2px solid black !important; /* Row lines */
-    border-right: 2px solid black !important;  /* Column lines */
-  }
-
-  tr:last-child td {
-    border-bottom: none !important; /* No line under last row */
-  }
-
-  tr th:last-child,
-  tr td:last-child {
-    border-right: none !important; /* No line after last column */
-  }
-
-
 .melatonic-table__body {
   display: flex;
   justify-content: center;
 
   table {
     background-color: #f7f7f7;
-    border: 2px solid black !important;
-    border-radius: 1em !important;
-    border-collapse: separate !important;
-    border-spacing: 0 !important;
+    border-radius: 1rem;
 
     tr {
       td {
         font-weight: 600;
         font-size: 1.4rem;
-        color: #000;'
-         
-       
+        color: #000;
 
         .icon {
           max-width: 2rem;
@@ -91,6 +69,10 @@
         td:first-child {
           font-weight: 800;
           font-size: 1.8rem;
+        }
+
+         td:nth-child(2) {
+         max-width: 3rem;
         }
         td {
           font-size: 1.6rem;
