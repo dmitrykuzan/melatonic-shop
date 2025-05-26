@@ -53,7 +53,7 @@
 
   table {
     background-color: #f7f7f7;
-      border: 2px solid black !important;
+    border: 2px solid black !important;
     border-radius: 1em !important;
     border-collapse: separate !important;
     border-spacing: 0 !important;
@@ -63,7 +63,6 @@
         font-weight: 600;
         font-size: 1.4rem;
         color: #000;'
-        border: 5px solid black !important;
          
        
 
