@@ -52,22 +52,14 @@
 
 @media screen and (min-width: 1200px) {
   .melatonic-table__body {
- 
-
-  table {
-  
-
-    tr {
-      td {
-     
-        font-size: 1.6rem;
-      
-
-       
+    table {
+      tr {
+        td {
+          font-size: 1.6rem;
+        }
       }
     }
   }
-}
 }
 
 .melatonic-table__content {
