@@ -14,6 +14,9 @@
 
 .melatonic-table__body {
   table {
+    background-color: #f7f7f7;
+    border-radius: 1rem;
+    
     tr {
       td {
         font-size: 1.4rem;
