@@ -102,6 +102,11 @@
       "name": "Video Review Slider",
       "settings": {}
     },
+    "review_slider_qamVqX": {
+      "type": "review-slider",
+      "name": "Review Slider",
+      "settings": {}
+    },
     "ticker_text_hBRgde": {
       "type": "ticker-text",
       "name": "Ticker Text",
@@ -112,9 +117,9 @@
       "name": "Banner Melatonic",
       "settings": {}
     },
-    "review_slider_qamVqX": {
-      "type": "review-slider",
-      "name": "Review Slider",
+    "melatonic_table_WcmnQx": {
+      "type": "melatonic-table",
+      "name": "Melatonic Table",
       "settings": {}
     }
   },
@@ -122,6 +127,7 @@
     "hero_GmkTFD",
     "partners_WArexW",
     "melatonic_promo_GpgJfw",
+    "melatonic_table_WcmnQx",
     "before_after_slider_TQD9nr",
     "featured_collection",
     "video_slider_J36J48",
