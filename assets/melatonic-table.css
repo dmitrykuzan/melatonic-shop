@@ -8,6 +8,7 @@
 @media screen and (min-width: 1200px) {
   .melatonic-table__section {
     margin-top: 13rem;
+    gap: 4rem;
   }
 }
 
