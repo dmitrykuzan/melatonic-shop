@@ -53,6 +53,7 @@
 @media screen and (min-width: 1200px) {
   .melatonic-table__body {
     max-width: 111rem;
+    margin: 0 auto;
     
     table {
       width: 100%;
