@@ -25,14 +25,16 @@
 .melatonic-table__body {
   display: flex;
   justify-content: center;
-  
+
   table {
     background-color: #f7f7f7;
     border-radius: 1rem;
-    
+
     tr {
       td {
+        font-weight: 600;
         font-size: 1.4rem;
+        color: #000;
 
         .icon {
           max-width: 2rem;
@@ -43,15 +45,6 @@
             height: 100%;
           }
         }
-      }
-
-      td:first-child {
-        font-weight: 600;
-        color: #000;
-      }
-
-        td:nth-child(2) {
-        color: #000;
       }
     }
   }
