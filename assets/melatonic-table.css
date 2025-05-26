@@ -19,13 +19,13 @@
 }
 
 .melatonic-table__title {
-  font-size: 2.6rem;
+  /* font-size: 2.6rem; */
   text-align: center;
 }
 
 @media screen and (min-width: 1023px) {
   .melatonic-table__title {
-    font-size: 3.2rem;
+    /* font-size: 3.2rem; */
     text-align: center;
   }
 }
