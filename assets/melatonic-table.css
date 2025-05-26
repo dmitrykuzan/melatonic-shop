@@ -30,9 +30,6 @@
   }
 }
 
-.th {
-      border: solid black 1px;
-}
 
 
 .melatonic-table__body {
@@ -48,7 +45,8 @@
       td {
         font-weight: 600;
         font-size: 1.4rem;
-        color: #000;
+        color: #000;'
+            border: solid black 1px;
        
 
         .icon {
