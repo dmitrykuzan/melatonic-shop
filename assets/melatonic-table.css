@@ -1,3 +1,7 @@
 .melatonic-table__section {
   margin-top: 5rem;
 }
+
+.melatonic-table__title {
+  font-size: 3.2rem;
+}
