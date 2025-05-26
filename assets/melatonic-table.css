@@ -54,6 +54,12 @@
   }
 }
 
+.melatonic-table__content {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
 .melatonic-table__bottom {
   display: flex;
   align-items: center;
