@@ -30,6 +30,10 @@
   }
 }
 
+.th {
+      border: solid black 1px;
+}
+
 
 .melatonic-table__body {
   display: flex;
@@ -38,7 +42,7 @@
   table {
     background-color: #f7f7f7;
     border-radius: 1rem;
-    border: solid black 1px;
+
 
     tr {
       td {
