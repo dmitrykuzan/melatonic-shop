@@ -31,16 +31,20 @@
 }
 
 
-th, td {
+  th, td {
     padding: 1em !important;
-    border-bottom: 2px solid black !important; /* Thicker row lines */
+    border-bottom: 2px solid black !important; /* Row lines */
+    border-right: 2px solid black !important;  /* Column lines */
   }
 
   tr:last-child td {
     border-bottom: none !important; /* No line under last row */
   }
 
-
+  tr th:last-child,
+  tr td:last-child {
+    border-right: none !important; /* No line after last column */
+  }
 
 
 .melatonic-table__body {
@@ -49,8 +53,8 @@ th, td {
 
   table {
     background-color: #f7f7f7;
-    border: 5px solid black !important;
-    border-radius: 1rem !important;
+      border: 2px solid black !important;
+    border-radius: 1em !important;
     border-collapse: separate !important;
     border-spacing: 0 !important;
 
