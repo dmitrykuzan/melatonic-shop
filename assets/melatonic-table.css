@@ -5,3 +5,9 @@
 .melatonic-table__title {
   font-size: 3.2rem;
 }
+
+.melatonic-table__bottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
