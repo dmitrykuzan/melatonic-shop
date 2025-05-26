@@ -30,9 +30,6 @@
   }
 }
 
-.th {
-      border: solid black 1px;
-}
 
 
 
@@ -42,16 +39,17 @@
 
   table {
     background-color: #f7f7f7;
-    border-radius: 1rem;
-        border: solid black 1px;
-
+    border: 2px solid black !important;
+    border-radius: 1rem !important;
+    border-collapse: separate !important;
+    border-spacing: 0 !important;
 
     tr {
       td {
         font-weight: 600;
         font-size: 1.4rem;
         color: #000;'
-            border: solid black 1px;
+         
        
 
         .icon {
