@@ -95,7 +95,7 @@
 
 @media screen and (min-width: 1023px) {
   .melatonic-table__subtitle {
-    font-size: 2.2rem;
+    font-size: 2.4rem;
     font-weight: 600;
   }
 }
@@ -118,5 +118,12 @@
       width: 100%;
       height: 100%;
     }
+  }
+}
+
+@media screen and (min-width: 1023px) {
+  .melatonic-table__description p {
+    font-size: 2rem;
+    font-weight: 600;
   }
 }
