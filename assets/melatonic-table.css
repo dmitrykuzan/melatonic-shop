@@ -23,6 +23,13 @@
   text-align: center;
 }
 
+@media screen and (min-width: 1200px) {
+ .melatonic-table__title {
+  font-size: 3.2rem;
+  text-align: center;
+}
+}
+
 .melatonic-table__body {
   display: flex;
   justify-content: center;
