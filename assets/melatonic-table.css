@@ -71,8 +71,8 @@
           font-size: 1.8rem;
         }
 
-         td:nth-child(2) {
-         max-width: 3rem;
+        td:nth-child(2) {
+          width: 10rem;
         }
         td {
           font-size: 1.6rem;
