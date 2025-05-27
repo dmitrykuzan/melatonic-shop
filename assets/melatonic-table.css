@@ -40,6 +40,7 @@
 
     tr {
       td {
+        padding: 1rem;
         line-height: 133%;
         font-weight: 500;
         font-size: 1.4rem;
@@ -63,10 +64,10 @@
   .melatonic-table__body {
     margin: 0 auto;
     max-width: 142rem;
-    
+
     table {
       width: 100%;
-      
+
       tr {
         td:first-child {
           font-weight: 500;
@@ -78,7 +79,6 @@
           font-size: 3.4rem;
         }
         td {
-          padding: 1rem;
           font-size: 3.2rem;
         }
       }
