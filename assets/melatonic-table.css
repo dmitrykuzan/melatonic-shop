@@ -41,7 +41,7 @@
     tr {
       td {
         line-height: 133%;
-        font-weight: 600;
+        font-weight: 500;
         font-size: 1.4rem;
         color: #000;
 
@@ -68,7 +68,7 @@
       width: 100%;
       tr {
         td:first-child {
-          font-weight: 800;
+          font-weight: 500;
           font-size: 4.8rem;
         }
 
