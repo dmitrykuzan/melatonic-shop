@@ -35,6 +35,15 @@
       "name": "Melatonic Promo",
       "settings": {}
     },
+    "melatonic_table_WcmnQx": {
+      "type": "melatonic-table",
+      "custom_css": [
+        "/* Apply Manrope font to the entire table */.your-table-class {font-family: 'Manrope', sans-serif;}",
+        "/* Increase font size of percentage values */.your-table-class td:nth-child(2) {font-size: 1.25em; /* adjust as needed */ font-weight: bold;}"
+      ],
+      "name": "Melatonic Table",
+      "settings": {}
+    },
     "before_after_slider_TQD9nr": {
       "type": "before-after-slider",
       "name": "Before After Slider",
@@ -115,11 +124,6 @@
     "banner_melatonic_DVir6m": {
       "type": "banner-melatonic",
       "name": "Banner Melatonic",
-      "settings": {}
-    },
-    "melatonic_table_WcmnQx": {
-      "type": "melatonic-table",
-      "name": "Melatonic Table",
       "settings": {}
     }
   },
