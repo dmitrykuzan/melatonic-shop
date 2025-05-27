@@ -145,4 +145,8 @@
     font-size: 2rem;
     font-weight: 600;
   }
+
+  .melatonic-table__content {
+    font-size: 2.4rem;
+  }
 }
