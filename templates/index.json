@@ -37,10 +37,7 @@
     },
     "melatonic_table_WcmnQx": {
       "type": "melatonic-table",
-      "custom_css": [
-        "/* Apply Manrope font to the entire table */.your-table-class {font-family: 'Manrope', sans-serif;}",
-        "/* Increase font size of percentage values */.your-table-class td:nth-child(2) {font-size: 1.25em; /* adjust as needed */ font-weight: bold;}"
-      ],
+      "custom_css": [],
       "name": "Melatonic Table",
       "settings": {}
     },
