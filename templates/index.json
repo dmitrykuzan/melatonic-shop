@@ -37,7 +37,9 @@
     },
     "melatonic_table_WcmnQx": {
       "type": "melatonic-table",
-      "custom_css": [],
+      "custom_css": [
+        "/* Adjust font size slightly larger */.dermatologist-reviewed {font-size: 20px !important;}"
+      ],
       "name": "Melatonic Table",
       "settings": {}
     },
