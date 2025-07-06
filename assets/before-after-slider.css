@@ -121,7 +121,6 @@
 
 @media screen and (min-width: 992px) {
   .before-after-slider {
-    margin-top: 15rem;
 
     .swiper-slide-next {
       transform: initial;
@@ -152,9 +151,6 @@
 }
 
 @media screen and (min-width: 1440px) {
-  .before-after-slider {
-    margin-top: 20rem;
-  }
 
   .before-after-slider__titles {
     display: flex;
